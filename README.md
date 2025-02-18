@@ -1,1 +1,13 @@
-An attemp to clone amazon.com homepage(only the beggining of it) using html and css. I hope it is responsive enough :) . 
+# amazon-hompage.
+A clone of amazon homepage, only the beginning of the actual page is included.
+
+![Screenshot](preview.png)
+
+![Live Demo](https://wdataw.github.io/amazon-homepage/)
+
+## Features:
+- Mobile-first responsive design.
+
+## Built With:
+- html.
+- css.
